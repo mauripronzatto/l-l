@@ -1,0 +1,25 @@
+
+.caja {
+width: 150px;
+height: 150px;
+margin: 20px auto;           /* separa las cajas y las centra */
+border: 5px solid black;     /* borde visible */
+padding: 10px;      /* espacio interno */
+}
+
+/* Colores */
+.roja {
+background-color: red;
+}
+
+.verde {
+background-color: green;
+}
+
+.azul {
+background-color: blue;
+}
+
+
+
+
